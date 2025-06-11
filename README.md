@@ -1,8 +1,10 @@
 # Bukeka Nxumalo, your aspiring Cloud Engineer
 
-Hi, my name is Bukeka Nxumalo doing Bachelor's degree in ICT at Durban Univerity of Technology where I learned and currently learning through hands on experience when it comes to Software Development Life Cycle. We have done web and mobile application projects in groups of 10. Using the course work DUT offered to us, we have made these project successful as a team.
+Hi, I'm Bukeka Nxumalo, a passionate and driven ICT student at Durban University of Technology. I'm currently pursuing my Bachelor's degree and gaining hands-on experience in the Software Development Life Cycle (SDLC) through academic projects and collaborative work.
 
-The passion that drives me is to become a Software Engineer and grow towards Cloung Engineering career.
+During my studies, I've contributed to web and mobile application projects as part of 10-member teams. These projects helped me build strong technical and communication skills while working with real-world tools and frameworks.
+
+My ultimate goal is to become a Software Engineer and grow into a career in Cloud Engineering.
 
 ---
 
