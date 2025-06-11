@@ -22,6 +22,16 @@ My ultimate goal is to become a Software Engineer and grow into a career in Clou
 🔗 [GitHub Repo](https://github.com/levs2424/PBDV-PROJECT)
 
 > Currently revisiting both projects to sharpen my **solo development** skills and apply advanced concepts.
+---
+
+## Skills & Tools
+| Area     | Stack                                 |
+|----------|---------------------------------------|
+| Frontend | HTML5, CSS3, JavaScript, React        |
+| Backend  | Java (Kotlin), Python, Flask, Express |
+| Database | NoSQL, SQL                            |
+| Cloud    | Firebase (soon move into AWS)         |
+| Tools    | Git & Github                          |
 
 ---
 
