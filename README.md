@@ -4,7 +4,7 @@
 
 ### Backend Software Engineer (C# .NET) | Aspiring Data Engineer
 
-*Durban, South Africa • 2025 DUT Graduate (Cum Laude level Industry Exposure)*
+*Durban, South Africa • 2025 DUT Graduate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devzwide)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nxumalobukeka66@gmail.com)
@@ -53,8 +53,6 @@ I specialize in building robust **Backend Systems** (Microsoft Stack) and **Data
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=devzwide&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=devzwide&theme=github_dark&hide_border=false)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devzwide&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
