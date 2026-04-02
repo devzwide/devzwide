@@ -1,12 +1,13 @@
 <div align="center">
-  <h1>
-    <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/10-superhero-movies-with-the-best-origin-stories.jpg?w=1600&h=900&fit=crop" width="45" style="vertical-align: text-bottom;" alt="Spider-Man swinging" />
-    Hey there, I'm Bukeka! 🕸️
+  <h1 align="center">
+  <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/10-superhero-movies-with-the-best-origin-stories.jpg?w=1600&h=900&fit=crop" width="45" style="vertical-align: middle;" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Bangers&weight=400&size=45&color=E23636&center=true&vCenter=true&width=350&lines=Hey+there,+I'm+Bukeka!" alt="Hey there, I'm Bukeka!" style="vertical-align: middle;" /> 
   </h1>
 
   <p>
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E23636&center=true&vCenter=true&width=500&lines=%22With+great+code...%22;%22comes+great+responsibility.%22;Passionate+IT+Graduate;Swinging+through+the+tech+space!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=d0d7de&center=true&vCenter=true&width=500&lines=%22With+great+code...%22;%22comes+great+responsibility.%22;Passionate+IT+Graduate;Swinging+through+the+tech+space!" alt="Typing SVG" />
     </a>
   </p>
 
