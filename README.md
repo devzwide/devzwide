@@ -14,7 +14,7 @@
   <br />
 
   <a href="https://github.com/your-github-username">
-    <img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="200" alt="Spider-Man Animated" style="border-radius: 15px;" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXExYjRybXl3dWE0dXc1Y2Jhb2oyM2x4MXFoNGJta3F3ZnYzZWFyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gkbmk7FjmxdCLf9nx9/giphy.gif" width="200" alt="Spider-Man Animated" style="border-radius: 15px;" />
   </a>
 
   <br />
